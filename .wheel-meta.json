@@ -1,0 +1,22 @@
+{
+  "wheel_id": 538,
+  "structure": "umbrella",
+  "slug": "noosafencing-102",
+  "project": "fencing-contractors-noosa-faq-3cc3a3d3ac87168bfddc4ee90eb994423",
+  "parent_t1_ref": "noosafencing-150",
+  "node_role": "feeder",
+  "money_target": "noosafencing.com.au",
+  "primary_kw": "fencing contractors noosa faq",
+  "intended_url": "https://aumedia.neocities.org/fencing-contractors-noosa-faq-3cc3a3d3ac87168bfddc4ee90eb994423/",
+  "tier": "T2",
+  "writeback_nonce": "37aa02e2c1da5b46",
+  "links": [
+    {
+      "target_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/fencing-contractors-noosa-red-flags-30b525568d21e6600b494970/",
+      "anchor": "the related resource",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
